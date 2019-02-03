@@ -1,0 +1,16 @@
+{
+  "scientists": [
+    {
+      "name": "Stephen Hawking",
+      "birthday": "08/01/1942"
+    },
+    {
+      "name": "Albert Einstein",
+      "birthday": "14/03/1879"
+    },
+    {
+      "name": "Isaac Newton",
+      "birthday": "04/01/1643"
+    }
+  ]
+}
